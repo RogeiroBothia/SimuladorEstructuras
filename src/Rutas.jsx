@@ -14,7 +14,7 @@ const Rutas = () => {
     <BrowserRouter>
       <ConditionalHeader />
       <Routes>
-        <Route path="/SimuladorEstructuras" element={<Auth />} >
+        <Route path="/SimuladorEstructuras/" element={<Auth />} >
           <Route index element={<Login />} />
         </Route>
         <Route path="/Home" element={<Home />} />
