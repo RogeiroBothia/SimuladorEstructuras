@@ -8,7 +8,7 @@ export const INTRO_COLA = "Simular los metodos de la Cola"
 export const ESTRUCTURAS = [
   {
     titulo: 'Array',
-    img: 'https://drive.google.com/file/d/1EH3m_UtDLynTP9GVNr9vEYAHIM7CG5wU/view?usp=sharing',//'../../public/Array.png',
+    img: '../../public/Array.png',
     descripcion: 'Un array es una colección ordenada de elementos del mismo tipo...'
   },
   {
@@ -23,7 +23,7 @@ export const ESTRUCTURAS = [
   },
   {
     titulo: 'Cola',
-    img: '../../public/Cola (1).png',
+    img: '../../public/Cola(1).png',
     descripcion: 'Una cola sigue el principio “primero en entrar, primero en salir” (FIFO)...'
   }
 ]
