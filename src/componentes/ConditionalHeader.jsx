@@ -4,7 +4,7 @@ import Header from './Header';
 const ConditionalHeader = () => {
   const location = useLocation();
 
-  if (location.pathname === '/') {
+  if (location.pathname === '/SimuladorEstructuras') {
     return null;
   }
 

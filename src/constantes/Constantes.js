@@ -8,7 +8,7 @@ export const INTRO_COLA = "Simular los metodos de la Cola"
 export const ESTRUCTURAS = [
   {
     titulo: 'Array',
-    img: '../../public/Array.png',
+    img: 'public/Array.png',//'../../public/Array.png',
     descripcion: 'Un array es una colección ordenada de elementos del mismo tipo...'
   },
   {
